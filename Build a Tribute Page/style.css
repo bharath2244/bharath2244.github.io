@@ -1,0 +1,32 @@
+#title {
+  text-align: center;
+  padding: 10px;
+}
+.text-center {
+  text-align: center;
+}
+body {
+  font-family: "Tangerine", Times New Roman;
+  color: blaack;
+}
+h1 {
+  font-size: 70px;
+}
+h5 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+.img-caption {
+  padding-top: 60px;
+}
+#tribute-info {
+  color: black;
+  font-family: "Arial", Time New Roman;
+}
